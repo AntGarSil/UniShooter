@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\Lorenz Fractal.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\Lorenz Fractal.js" Line="25" Column="13" />
+      <File FileName="Assets\Standard Assets\Cartoon Soldier\Scripts\guns\bulletTraceGenerator.js" Line="19" Column="23" />
+      <File FileName="Assets\Standard Assets\Cartoon Soldier\Scripts\sentryGun\sentryGun.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Pyramid\PyramidGenerator.js" Line="30" Column="7" />
+      <File FileName="Assets\Standard Assets\Cartoon Soldier\Readme.txt" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Cartoon Soldier\Scripts\soldier\weaponController.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Cartoon Soldier\Scripts\guns\gunSelector.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\CharacterMotor.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Cartoon Soldier\Scripts\soldier\soldierMovement.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Cartoon Soldier\Scripts\guns\gun.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Cartoon Soldier\Scripts\guns\muzzleFlashGenerator.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Cartoon Soldier\Scripts\sentryGun\spinningTurret.js" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Turret\turretAudioGenerator.js" Line="13" Column="5" />
+      <File FileName="Assets\Standard Assets\Scripts\Character\gunFireAudioGenerator.js" Line="1" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
